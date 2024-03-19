@@ -1,0 +1,4 @@
+"DC";"DateTime";"Source";"TypeTM";"NtpServer";"VMICTimeEnabled";"NTPIP";"AnnouncesFlag";"Reliable"
+"DC01.deman.local";"19/03/2024 12:53:18";"VM IC Time Synchronization Provider";"NT5DS";"time.windows.com,0x8";"0x1";"86.77.84.80";"10";"Automatic TS & TS Reliable"
+"TDSRV19.deman.local";"19/03/2024 12:53:20";"0.fr.pool.ntp.org,1.fr.pool.ntp.org,2.fr.pool.ntp.org,3.fr.pool.ntp.org ";"NTP";"0.fr.pool.ntp.org,1.fr.pool.ntp.org,2.fr.pool.ntp.org,3.fr.pool.ntp.org";"0x0";"51.195.104.188";"5";"Always TS & TS Reliable"
+"TDSRV9.deman.local";"19/03/2024 12:53:20";"0.fr.pool.ntp.org,1.fr.pool.ntp.org,2.fr.pool.ntp.org,3.fr.pool.ntp.org ";"NTP";"0.fr.pool.ntp.org,1.fr.pool.ntp.org,2.fr.pool.ntp.org,3.fr.pool.ntp.org";"0x0";"82.65.248.56";"5";"Always TS & TS Reliable"
